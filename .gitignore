@@ -1,0 +1,22 @@
+# Java class files
+*.class
+
+# Log files
+*.log
+
+# Package files
+*.jar
+*.war
+*.ear
+
+# Generated files
+/bin/
+/target/
+/out/
+
+# IDE関連のファイル（例：Eclipse, IntelliJ, VS Code など）
+*.iml
+.idea/
+.vscode/
+*.swp
+.DS_Store
